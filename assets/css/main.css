@@ -2241,19 +2241,19 @@ input, select, textarea {
 		text-shadow: 1px 1px 1px #000;		
 	}
 
-/* One */
+/* Quem sou? */
 
-	#one {
-		background: url("images/overlay.png"), url("../../images/snow.jpeg");
+	#quem-sou {
+		background: url("images/overlay.png"), url("../../images/castle.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* O que faço? */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/castle.jpeg");
+	#o-que-faco {
+		background: url("images/overlay.png"), url("../../images/snow.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
